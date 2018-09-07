@@ -1,0 +1,209 @@
+{
+    "seller": {
+        "name": "粥品香坊（回龙观）",
+        "description": "蜂鸟转送",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 20,
+        "deliveryPrice": 4,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！",
+        "supports": [
+            {
+                "type": 0,
+                "description": "在线支付满28减5"
+            },
+            {
+                "type": 1,
+                "description": "VC无限橙果汁全场8折"
+            },
+            {
+                "type": 2,
+                "description": "单人精彩套餐"
+            },
+            {
+                "type": 3,
+                "description": "该商家支持发票，请下单写好发票抬头"
+            },
+            {
+                "type": 4,
+                "description": "已加入“外卖保”计划，食品安全保障"
+            }
+        ],
+        "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png",
+        "pics": [
+            "http://i3.meishichina.com/static/shicai/qiukui.png",
+            "http://i3.meishichina.com/static/shicai/qiukui.png",
+            "http://i3.meishichina.com/static/shicai/qiukui.png",
+            "http://i3.meishichina.com/static/shicai/qiukui.png"
+        ],
+        "infos": [
+            "该商家支持发票，请下单写好发票抬头",
+            "品类：其他菜系，包子粥店",
+            "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
+            "营业时间：18:00-20:30"
+        ]
+    },
+    "goods": [
+        {
+            "name": "热销榜",
+            "type": -1,
+            "foods": [
+                {
+                    "name": "皮蛋瘦肉粥",
+                    "price": 10,
+                    "oldPrice": "",
+                    "description": "咸粥",
+                    "sellCount": 229,
+                    "rating": 100,
+                    "info": "一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！",
+                    "ratings": [
+                        {
+                            "username": "3*******c",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                        },
+                        {
+                            "username": "2*******3",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                        }
+                    ],
+                    "icon": "http://i3.meishichina.com/static/shicai/qiukui.png",
+                    "image": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                },
+                {
+                    "name": "扁豆焖面",
+                    "price": 14,
+                    "oldPrice": "",
+                    "description": "",
+                    "sellCount": 229,
+                    "rating": 100,
+                    "info": "一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！一道简单家常菜，实在是太下饭！简单，美味，分分钟就可以满足你的胃！",
+                    "ratings": [
+                        {
+                            "username": "3*******c",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                        },
+                        {
+                            "username": "2*******3",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                        }
+                    ],
+                    "icon": "http://i3.meishichina.com/static/shicai/qiukui.png",
+                    "image": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                }
+            ]
+        },
+        {
+            "name": "单人精彩套餐",
+            "type": 2,
+            "foods": [
+                {
+                    "name": "红枣山药粥套餐",
+                    "price": 29,
+                    "oldPrice": 36,
+                    "description": "红枣山药糙米粥，素菜包，爽口",
+                    "sellCount": 17,
+                    "rating": 100,
+                    "info": "",
+                    "ratings": [
+                        {
+                            "username": "2*******3",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                        },
+                        {
+                            "username": "2*******3",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "冰爽饮品限时特惠",
+            "type": 1,
+            "foods": [
+                {
+                    "name": "VC无限橙果汁",
+                    "price": 8,
+                    "oldPrice": 10,
+                    "description": "",
+                    "sellCount": 15,
+                    "rating": 100,
+                    "info": "",
+                    "ratings": [
+                        {
+                            "username": "3*******c",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                        },
+                        {
+                            "username": "2*******3",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "ratings" :[
+        {
+            "username": "3*******c",
+            "rateTime": 1469271264000,
+            "deliveryTime":30,
+            "score": 5,
+            "rateType": 0,
+            "text": "不错，粥很好喝，我经常吃这一家，非常赞，以后也会常来",
+            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆腐",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "2*******3",
+            "rateTime": 1469271264000,
+            "deliveryTime":"",
+            "score": 4,
+            "rateType": 0,
+            "text": "服务态度不错",
+            "avatar": "http://i3.meishichina.com/static/shicai/qiukui.png",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆腐",
+                "牛肉馅饼"
+            ]
+        }
+    ]
+}
