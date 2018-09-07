@@ -1,6 +1,6 @@
 <template>
-  <div class="header">
-    我是header
+  <div class="">
+    seller
   </div>
 </template>
 
@@ -9,5 +9,6 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="stylus" scoped>
+
 </style>
