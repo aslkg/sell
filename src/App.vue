@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <v-header/>
-    <div class="tab">
+    <v-header :seller="seller"/>
+    <div class="tab border-1px">
       <div class="tab-item">
         <router-link tag="li" to="/goods">商品</router-link>
       </div>
@@ -20,20 +20,43 @@
 import header from './components/header/header'
 
 export default {
+  data () {
+    return {
+      seller: {}
+    }
+  },
   components: {
     'v-header': header
+  },
+  created () {
+    this.$axios.get('/api/seller').then((res) => {
+      if (res.status === 200) {
+        this.seller = res.data.data
+        console.log(this.seller)
+      }
+    })
   }
 }
 </script>
 
 <style lang="stylus" scoped>
-#app
+@import "./common/stylus/mixin.styl";
+@import "./common/stylus/base.styl";
   .tab
     display: flex
     width: 100%
     height: 40px
     line-height: 40px
-    border-bottom:1px solid rgba(7,17,27,0.1)
+    // border-bottom:1px solid rgba(7,17,27,0.1)
+    // position:relative
+    // &:after
+    //   display:block
+    //   position:absolute
+    //   left: 0
+    //   bottom: 0
+    //   width: 100%
+    //   border-top: 1px solid rgba(7,17,27,0.1)
+    //   content: ''
     .tab-item
       flex: 1
       text-align: center
