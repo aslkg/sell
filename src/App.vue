@@ -32,7 +32,6 @@ export default {
     this.$axios.get('/api/seller').then((res) => {
       if (res.status === 200) {
         this.seller = res.data.data
-        console.log(this.seller)
       }
     })
   }
